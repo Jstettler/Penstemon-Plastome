@@ -1,0 +1,23 @@
+########################################
+###NOVOPlasty Parameters Run Number 3###
+########################################
+
+Project name         = #Insert species name here
+Insert size          = 500
+Insert size aut      = yes
+Read Length          = 250
+Type                 = chloro
+Genome Range         = 120000-200000
+K-mer                = 39
+Insert Range         = 1.6
+Insert Range strict  = 1.2
+Single/Paired        = PE
+Max memory           =
+Extended log         = 1
+Save assembled reads = yes
+Combined reads       =
+Forward reads        = forwardInputFile.fasta
+Reverse reads        = reverseInptutFile.fasta
+Seed Input           = Erythranthe_lutea_Plastome.fasta
+Reference            = 
+Chloroplast sequence =
